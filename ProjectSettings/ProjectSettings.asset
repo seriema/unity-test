@@ -475,7 +475,7 @@ PlayerSettings:
   WebGL::emscriptenArgs: 
   WebGL::template: APPLICATION:Default
   additionalIl2CppArgs::additionalIl2CppArgs: 
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: e7668da7-57c6-47c0-a6ae-6175d8d6793a
+  projectName: 2013_10 - Sample Assets
+  organizationId: poopers
   cloudEnabled: 0
